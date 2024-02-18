@@ -1,5 +1,3 @@
-// CHAREF CAMELIA 21202057
-// RINCKWALD LISA 21203107
 /* fichier biblioH.h */
 #ifndef __BIBLIOH_H__
 #define __BIBLIOH_H__
