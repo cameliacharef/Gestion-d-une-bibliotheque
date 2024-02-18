@@ -5,15 +5,15 @@ This repository contains a mini-project focused on library management, where a l
 
 Specifically, we explore two approaches:
 
-1- Singly Linked List Implementation (Part 1):
+**1- Singly Linked List Implementation (Part 1):**
 
 In this part, we implement a library using a singly linked list data structure. Each book is represented as a node in the list.
 
-2- Hash Table Implementation (Part 2):
+**2- Hash Table Implementation (Part 2):**
 
 The second part of the project involves implementing a library using a hash table data structure. Books are stored in the hash table based on their attributes, allowing for efficient retrieval and management.
 
-Key Features:
+**Key Features:**
 
 - Library management functionalities such as adding books, searching by title or author, and removing books.
 
