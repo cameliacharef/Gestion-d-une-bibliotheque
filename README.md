@@ -4,9 +4,11 @@ Project Description:
 This repository contains a mini-project focused on library management, where a library is represented as a collection of books. The main objective of this project is to compare different data structures for implementing a library. Specifically, we explore two approaches:
 
 Singly Linked List Implementation (Part 1):
+
 In this part, we implement a library using a singly linked list data structure. Each book is represented as a node in the list.
 
 Hash Table Implementation (Part 2):
+
 The second part of the project involves implementing a library using a hash table data structure. Books are stored in the hash table based on their attributes, allowing for efficient retrieval and management.
 
 Key Features:
