@@ -15,8 +15,8 @@ The second part of the project involves implementing a library using a hash tabl
 
 Key Features:
 
-Library management functionalities such as adding books, searching by title or author, and removing books.
+- Library management functionalities such as adding books, searching by title or author, and removing books.
 
-Comparative analysis of the performance and efficiency of the linked list and hash table implementations.
+- Comparative analysis of the performance and efficiency of the linked list and hash table implementations.
 
-Educational content aimed at understanding and comparing different data structures for real-world applications.
+- Educational content aimed at understanding and comparing different data structures for real-world applications.
