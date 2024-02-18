@@ -27,7 +27,7 @@ To compile the project and build all components, follow these steps:
 
 - Clone the repository to your local machine:
   
-  git clone https://github.com/your-username/your-repository.git
+  git clone https://github.com/cameliacharef/Gestion-d-une-bibliotheque.git
   
 - Navigate to the project directory:
   
