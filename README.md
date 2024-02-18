@@ -5,15 +5,15 @@ This repository contains a mini-project focused on library management, where a l
 
 Specifically, we explore two approaches:
 
-**1- Singly Linked List Implementation (Part 1):**
+### 1- Singly Linked List Implementation (Part 1):
 
 In this part, we implement a library using a singly linked list data structure. Each book is represented as a node in the list.
 
-**2- Hash Table Implementation (Part 2):**
+### 2- Hash Table Implementation (Part 2):
 
 The second part of the project involves implementing a library using a hash table data structure. Books are stored in the hash table based on their attributes, allowing for efficient retrieval and management.
 
-**Key Features:**
+### Key Features:
 
 - Library management functionalities such as adding books, searching by title or author, and removing books.
 
@@ -21,20 +21,26 @@ The second part of the project involves implementing a library using a hash tabl
 
 - Educational content aimed at understanding and comparing different data structures for real-world applications.
 
-**Compiling the Project:**
+### Compiling the Project:
 
 To compile the project and build all components, follow these steps:
 
 - Clone the repository to your local machine:
+  
   git clone https://github.com/your-username/your-repository.git
+  
 - Navigate to the project directory:
-  cd your-repository
-- Run the make all command to compile all components of the project:
-  make all
+  
+  **cd your-repository**
+  
+- Run the **make all** command to compile all components of the project:
+  
+  **make all**
+  
   This command will compile the main executable along with any additional components specified in the Makefile.
 
 Once the compilation process is complete, you can execute the compiled program or explore the generated executables as needed.
 
 **Note: Ensure that you have the required dependencies and a compatible compiler installed on your system before running the compilation command.**
 
-This project is in French.
+*This project is in French.*
