@@ -1,5 +1,3 @@
-// CHAREF CAMELIA 21202057
-// RINCKWALD LISA 21203107
 /* fichier entreeSortieLC.h */
 #ifndef _ENTREESORTIELC_H_
 #define _ENTREESORTIELC_H_
