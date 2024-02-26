@@ -1,4 +1,4 @@
-# Gestion-d-une-bibliotheque cc
+# Gestion-d-une-bibliotheque 
 Project Description: 
 
 This repository contains a mini-project focused on library management, where a library is represented as a collection of books. The main objective of this project is to compare different data structures for implementing a library. 
